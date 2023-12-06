@@ -1,0 +1,13 @@
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/images/nature.jpeg
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/thamj/Desktop/tgh/flutter_application_6/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
